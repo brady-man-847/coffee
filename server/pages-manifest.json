@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/game": "pages/game.html",
+  "/menu": "pages/menu.html",
+  "/order": "pages/order.html",
+  "/payment": "pages/payment.html",
+  "/setting": "pages/setting.html",
+  "/": "pages/index.js",
+  "/404": "pages/404.html"
+}

@@ -1,0 +1,68 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/C3d_deWecUoEZuhrNxguR/_buildManifest.js",
+    "static/C3d_deWecUoEZuhrNxguR/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-36d12a75f0098f30.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-f11614d8aa7ee555.js",
+      "static/chunks/pages/index-38262179cb3d1614.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-36d12a75f0098f30.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-f11614d8aa7ee555.js",
+      "static/css/ed7ad2e10cf48657.css",
+      "static/chunks/pages/_app-53e23770278d54a2.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-36d12a75f0098f30.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-f11614d8aa7ee555.js",
+      "static/chunks/pages/_error-8353112a01355ec2.js"
+    ],
+    "/game": [
+      "static/chunks/webpack-36d12a75f0098f30.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-f11614d8aa7ee555.js",
+      "static/chunks/pages/game-9dde91250630522f.js"
+    ],
+    "/menu": [
+      "static/chunks/webpack-36d12a75f0098f30.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-f11614d8aa7ee555.js",
+      "static/chunks/29107295-308b8b2c345f6613.js",
+      "static/chunks/177-f78fceb7ff3c3a5d.js",
+      "static/chunks/694-992592926dd1eb60.js",
+      "static/chunks/pages/menu-9824266bcbfb1aae.js"
+    ],
+    "/order": [
+      "static/chunks/webpack-36d12a75f0098f30.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-f11614d8aa7ee555.js",
+      "static/chunks/177-f78fceb7ff3c3a5d.js",
+      "static/chunks/pages/order-c1a35ae82703f66d.js"
+    ],
+    "/payment": [
+      "static/chunks/webpack-36d12a75f0098f30.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-f11614d8aa7ee555.js",
+      "static/chunks/pages/payment-37cacae4295048cd.js"
+    ],
+    "/setting": [
+      "static/chunks/webpack-36d12a75f0098f30.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-f11614d8aa7ee555.js",
+      "static/chunks/pages/setting-c0c53eadf343c85e.js"
+    ]
+  },
+  "ampFirstPages": []
+}
